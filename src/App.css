@@ -163,10 +163,8 @@ input[type='number'] {
 
 @media (max-width: 320px) {
 
-  body{
-    scale: 1;
-  }
   .container {
     width: 300px;
+    scale: 1;
   }
 }
